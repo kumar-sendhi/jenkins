@@ -1,0 +1,11 @@
+E:\aspcore\jenkins\helloworld\helloworld\helloworld\bin\Debug\netcoreapp2.0\helloworld.deps.json
+E:\aspcore\jenkins\helloworld\helloworld\helloworld\bin\Debug\netcoreapp2.0\helloworld.runtimeconfig.json
+E:\aspcore\jenkins\helloworld\helloworld\helloworld\bin\Debug\netcoreapp2.0\helloworld.runtimeconfig.dev.json
+E:\aspcore\jenkins\helloworld\helloworld\helloworld\bin\Debug\netcoreapp2.0\helloworld.dll
+E:\aspcore\jenkins\helloworld\helloworld\helloworld\bin\Debug\netcoreapp2.0\helloworld.pdb
+E:\aspcore\jenkins\helloworld\helloworld\helloworld\obj\Debug\netcoreapp2.0\helloworld.csprojAssemblyReference.cache
+E:\aspcore\jenkins\helloworld\helloworld\helloworld\obj\Debug\netcoreapp2.0\helloworld.csproj.CoreCompileInputs.cache
+E:\aspcore\jenkins\helloworld\helloworld\helloworld\obj\Debug\netcoreapp2.0\helloworld.AssemblyInfoInputs.cache
+E:\aspcore\jenkins\helloworld\helloworld\helloworld\obj\Debug\netcoreapp2.0\helloworld.AssemblyInfo.cs
+E:\aspcore\jenkins\helloworld\helloworld\helloworld\obj\Debug\netcoreapp2.0\helloworld.dll
+E:\aspcore\jenkins\helloworld\helloworld\helloworld\obj\Debug\netcoreapp2.0\helloworld.pdb
